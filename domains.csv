@@ -1,15 +1,17 @@
-domain,owner,description
-columbus.gov,"City of Columbus","main website"
-alumcreek.bike,"City of Columbus","Survey and feedback website for Hudson-Mock shared-use path"
-cbusareacommissions.org,"City of Columbus","Department of Neighborhoods official Area Commission website, Neighborhood Design Center, WordPress"
-columbusebikes.com,"City of Columbus","Smart Columbus ebike voucher program"
-envisionhilltop.com,"City of Columbus","Hilltop Community Plan website"
-hilltopusa.org,"Franklinton Development Association","Hilltop community resource guide"
-franklinton.org,"Franklinton Development Association","Franklinton community resource guide"
-celebrateone.info,"City of Columbus","infant mortality program; redirects to columbus.gov"
-onelinden.org,"City of Columbus","Linden community resource guide"
-ourlinden.com,"City of Columbus","redirect to onelinden.org"
-westcaseroadpark.com,"City of Columbus","Plan for new park replacing OSU Sheep Farm, by OSU Don Scott Airport. Squarespace."
-reimaginingcolumbus.com,"Mellon Foundation","Plan website for $3.5 million public art project, part of Mellon's Monuments Project: https://www.columbus.gov/Templates/Detail.aspx?id=2147530662"
-columbusrecparks.com,"Columbus Recreation and Parks","Main website"
-crpdsports.org,"Columbus Recreation and Parks","Deprecated sports signup domain"
+domain,owner,description,"main website stack",status
+columbus.gov,"City of Columbus","main website","Ektron",alive
+alumcreek.bike,"City of Columbus","Survey and feedback website for Hudson-Mock shared-use path","WordPress",squatted
+cbusareacommissions.org,"City of Columbus","Department of Neighborhoods official Area Commission website, Neighborhood Design Center","WordPress",alive
+columbusebikes.com,"City of Columbus","Smart Columbus ebike voucher program","Squarespace",alive
+envisionhilltop.com,"City of Columbus","Hilltop Community Plan website","Wix",alive
+hilltopusa.org,"Franklinton Development Association","Hilltop community resource guide","WordPress",alive
+franklinton.org,"Franklinton Development Association","Franklinton community resource guide","WordPress",alive
+celebrateone.info,"City of Columbus","infant mortality program","","redirect to columbus.gov"
+onelinden.org,"City of Columbus","Linden community resource guide","Wix","alive"
+ourlinden.com,"City of Columbus","One Linden Plan: public engagement, updates","","redirect to onelinden.org"
+westcaseroadpark.com,"City of Columbus","Plan for new park replacing OSU Sheep Farm, by OSU Don Scott Airport","Squarespace","alive"
+reimaginingcolumbus.com,"Mellon Foundation","Plan website for $3.5 million public art project, part of Mellon's Monuments Project: https://www.columbus.gov/Templates/Detail.aspx?id=2147530662","Squarespace","alive"
+columbusrecparks.com,"Columbus Recreation and Parks","Main website","WordPress","alive"
+crpdsports.org,"Columbus Recreation and Parks","Deprecated sports signup domain","","redirect to columbusrecparks.com"
+housingforallcbus.com,"City of Columbus","Housing For All publicity webpage, Sky Nile Consulting","Wix","alive"
+columbusufmp.org,"Columbus Recreation and Parks","Urban Forestry Master Plan: feedback, resources, updates","Weebly","alive"
