@@ -1,4 +1,4 @@
-domain,owner,description,"main website stack",status
+domain,owner,description,"main website stack","main website status"
 columbus.gov,"City of Columbus","main website","Ektron",alive
 alumcreek.bike,"City of Columbus","Survey and feedback website for Hudson-Mock shared-use path","WordPress",squatted
 cbusareacommissions.org,"City of Columbus","Department of Neighborhoods official Area Commission website, Neighborhood Design Center","WordPress",alive
@@ -15,3 +15,4 @@ columbusrecparks.com,"Columbus Recreation and Parks","Main website","WordPress",
 crpdsports.org,"Columbus Recreation and Parks","Deprecated sports signup domain","","redirect to columbusrecparks.com"
 housingforallcbus.com,"City of Columbus","Housing For All publicity webpage, Sky Nile Consulting","Wix","alive"
 columbusufmp.org,"Columbus Recreation and Parks","Urban Forestry Master Plan: feedback, resources, updates","Weebly","alive"
+columbuspolice.org,"Columbus Police Department","Former website, still hosts web report portal https://columbuspolice.org/Reports/","","alive"
